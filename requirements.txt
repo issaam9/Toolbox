@@ -1,0 +1,67 @@
+# CyberSec Pro - Dépendances Python
+# Installation: pip3 install -r requirements.txt
+
+# Interface utilisateur et GUI
+tkinter-tooltip>=2.0.0
+pillow>=8.0.0
+
+# Réseau et sécurité
+requests>=2.25.0
+urllib3>=1.26.0
+scapy>=2.4.5
+python-nmap>=0.7.1
+netaddr>=0.8.0
+ipaddress>=1.0.23
+
+# Cryptographie et hachage
+cryptography>=3.4.0
+paramiko>=2.7.0
+pycryptodome>=3.10.0
+
+# Analyse et parsing
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+xmltodict>=0.12.0
+pyyaml>=5.4.0
+
+# Base de données et fichiers
+
+
+# Visualisation et rapports
+matplotlib>=3.3.0
+pandas>=1.2.0
+tabulate>=0.8.0
+jinja2>=2.11.0
+reportlab>=3.5.0
+
+# Interface en ligne de commande
+colorama>=0.4.0
+click>=7.1.0
+rich>=10.0.0
+tqdm>=4.60.0
+
+# Logging et monitoring
+python-logging-loki>=0.3.0
+
+# Tests et développement
+pytest>=6.2.0
+pytest-cov>=2.11.0
+black>=21.0.0
+flake8>=3.8.0
+
+# Utilitaires
+python-dateutil>=2.8.0
+psutil>=5.8.0
+pathlib>=1.0.0
+configparser>=5.0.0
+hashlib
+json
+base64
+threading
+subprocess
+socket
+time
+datetime
+os
+sys
+re

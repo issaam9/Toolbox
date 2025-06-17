@@ -1,0 +1,18 @@
+{
+  "total_connections": 10,
+  "today_connections": 6,
+  "last_connection_date": "2025-06-16",
+  "total_scans": 11,
+  "today_scans": 1,
+  "total_vulnerabilities": 6,
+  "scan_types": {
+    "nmap": 4,
+    "vulnerability": 2,
+    "traffic": 2,
+    "service_detection": 1,
+    "exploit_test": 1,
+    "post_exploit": 1
+  },
+  "reports_generated": 10,
+  "last_scan_date": "2025-06-16"
+}

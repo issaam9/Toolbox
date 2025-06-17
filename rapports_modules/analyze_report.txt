@@ -1,0 +1,159 @@
+[2025-05-28 19:29:16] ANALYZE REPORT
+Résultat Analyse :
+Erreur lors de la capture : There is no current event loop in thread 'Thread-5 (run)'.
+
+--------------------------------------------------
+
+[2025-05-28 19:29:19] ANALYZE REPORT
+Résultat Analyse :
+Erreur lors de la capture : There is no current event loop in thread 'Thread-6 (run)'.
+
+--------------------------------------------------
+
+[2025-05-28 19:32:27] ANALYZE REPORT
+Résultat Analyse :
+Erreur lors de la capture : Interface 'eth0' does not exist, unable to initiate capture. Perhaps permissions are missing?
+Possible interfaces: \Device\NPF_{EBB43612-595D-475E-BC0D-74A4EFF0D8E9}
+Connexion au réseau local* 8
+\Device\NPF_{9EE7F70B-49D1-4AAC-BE30-076F4165229D}
+Connexion au réseau local* 7
+\Device\NPF_{C1A76AB3-40D6-4F7D-87C9-482095824A5F}
+Connexion au réseau local* 6
+\Device\NPF_{AF728944-77B6-47B2-AACF-B27E03CE535B}
+Cellulaire
+\Device\NPF_{E9AD9F95-B950-404C-928E-20AD1F6B933E}
+Connexion réseau Bluetooth
+\Device\NPF_{4E2CC687-037E-4B36-A8DD-A647FC10849F}
+Wi-Fi 2
+\Device\NPF_{7380983B-CA24-41E5-8BE1-752F73AC2392}
+VMware Network Adapter VMnet8
+\Device\NPF_{ECCBF727-1770-483B-8F6E-D1996F020E3A}
+VMware Network Adapter VMnet1
+\Device\NPF_{5D309273-CFAB-4CA8-9DBC-CB63E4ACD65B}
+Connexion au réseau local* 10
+\Device\NPF_{7F854B60-666F-4A6A-A4AE-9CD1AA4A895C}
+Connexion au réseau local* 9
+\Device\NPF_Loopback
+Adapter for loopback traffic capture
+\Device\NPF_{286D9DC9-15F2-4960-851A-69E7A2019BE2}
+OpenVPN Data Channel Offload
+\Device\NPF_{A0A61E90-E184-4DF5-8971-F89F7239416D}
+OpenVPN TAP-Windows6
+\Device\NPF_{09B884E1-1F0B-4C67-8082-CC396EFD059F}
+OpenVPN Wintun
+etwdump
+Event Tracing for Windows (ETW) reader
+
+--------------------------------------------------
+
+[2025-05-28 19:36:25] ANALYZE REPORT
+Cible : 192.168.248.134
+Résultat :
+Erreur lors de la capture : Interface 'eth0' does not exist, unable to initiate capture. Perhaps permissions are missing?
+Possible interfaces: \Device\NPF_{EBB43612-595D-475E-BC0D-74A4EFF0D8E9}
+Connexion au réseau local* 8
+\Device\NPF_{9EE7F70B-49D1-4AAC-BE30-076F4165229D}
+Connexion au réseau local* 7
+\Device\NPF_{C1A76AB3-40D6-4F7D-87C9-482095824A5F}
+Connexion au réseau local* 6
+\Device\NPF_{AF728944-77B6-47B2-AACF-B27E03CE535B}
+Cellulaire
+\Device\NPF_{E9AD9F95-B950-404C-928E-20AD1F6B933E}
+Connexion réseau Bluetooth
+\Device\NPF_{4E2CC687-037E-4B36-A8DD-A647FC10849F}
+Wi-Fi 2
+\Device\NPF_{7380983B-CA24-41E5-8BE1-752F73AC2392}
+VMware Network Adapter VMnet8
+\Device\NPF_{ECCBF727-1770-483B-8F6E-D1996F020E3A}
+VMware Network Adapter VMnet1
+\Device\NPF_{5D309273-CFAB-4CA8-9DBC-CB63E4ACD65B}
+Connexion au réseau local* 10
+\Device\NPF_{7F854B60-666F-4A6A-A4AE-9CD1AA4A895C}
+Connexion au réseau local* 9
+\Device\NPF_Loopback
+Adapter for loopback traffic capture
+\Device\NPF_{286D9DC9-15F2-4960-851A-69E7A2019BE2}
+OpenVPN Data Channel Offload
+\Device\NPF_{A0A61E90-E184-4DF5-8971-F89F7239416D}
+OpenVPN TAP-Windows6
+\Device\NPF_{09B884E1-1F0B-4C67-8082-CC396EFD059F}
+OpenVPN Wintun
+etwdump
+Event Tracing for Windows (ETW) reader
+
+--------------------------------------------------
+
+[2025-05-28 19:38:40] ANALYZE REPORT
+Cible : 192.168.248.134
+Résultat :
+Erreur lors de la capture : Interface 'eth0' does not exist, unable to initiate capture. Perhaps permissions are missing?
+Possible interfaces: \Device\NPF_{EBB43612-595D-475E-BC0D-74A4EFF0D8E9}
+Connexion au réseau local* 8
+\Device\NPF_{9EE7F70B-49D1-4AAC-BE30-076F4165229D}
+Connexion au réseau local* 7
+\Device\NPF_{C1A76AB3-40D6-4F7D-87C9-482095824A5F}
+Connexion au réseau local* 6
+\Device\NPF_{AF728944-77B6-47B2-AACF-B27E03CE535B}
+Cellulaire
+\Device\NPF_{E9AD9F95-B950-404C-928E-20AD1F6B933E}
+Connexion réseau Bluetooth
+\Device\NPF_{4E2CC687-037E-4B36-A8DD-A647FC10849F}
+Wi-Fi 2
+\Device\NPF_{7380983B-CA24-41E5-8BE1-752F73AC2392}
+VMware Network Adapter VMnet8
+\Device\NPF_{ECCBF727-1770-483B-8F6E-D1996F020E3A}
+VMware Network Adapter VMnet1
+\Device\NPF_{5D309273-CFAB-4CA8-9DBC-CB63E4ACD65B}
+Connexion au réseau local* 10
+\Device\NPF_{7F854B60-666F-4A6A-A4AE-9CD1AA4A895C}
+Connexion au réseau local* 9
+\Device\NPF_Loopback
+Adapter for loopback traffic capture
+\Device\NPF_{286D9DC9-15F2-4960-851A-69E7A2019BE2}
+OpenVPN Data Channel Offload
+\Device\NPF_{A0A61E90-E184-4DF5-8971-F89F7239416D}
+OpenVPN TAP-Windows6
+\Device\NPF_{09B884E1-1F0B-4C67-8082-CC396EFD059F}
+OpenVPN Wintun
+etwdump
+Event Tracing for Windows (ETW) reader
+
+--------------------------------------------------
+
+[2025-05-28 19:43:11] ANALYZE REPORT
+Cible : 192.168.248.134
+Résultat :
+Erreur lors de la capture : Interface 'eth0' does not exist, unable to initiate capture. Perhaps permissions are missing?
+Possible interfaces: \Device\NPF_{EBB43612-595D-475E-BC0D-74A4EFF0D8E9}
+Connexion au réseau local* 8
+\Device\NPF_{9EE7F70B-49D1-4AAC-BE30-076F4165229D}
+Connexion au réseau local* 7
+\Device\NPF_{C1A76AB3-40D6-4F7D-87C9-482095824A5F}
+Connexion au réseau local* 6
+\Device\NPF_{AF728944-77B6-47B2-AACF-B27E03CE535B}
+Cellulaire
+\Device\NPF_{E9AD9F95-B950-404C-928E-20AD1F6B933E}
+Connexion réseau Bluetooth
+\Device\NPF_{4E2CC687-037E-4B36-A8DD-A647FC10849F}
+Wi-Fi 2
+\Device\NPF_{7380983B-CA24-41E5-8BE1-752F73AC2392}
+VMware Network Adapter VMnet8
+\Device\NPF_{ECCBF727-1770-483B-8F6E-D1996F020E3A}
+VMware Network Adapter VMnet1
+\Device\NPF_{5D309273-CFAB-4CA8-9DBC-CB63E4ACD65B}
+Connexion au réseau local* 10
+\Device\NPF_{7F854B60-666F-4A6A-A4AE-9CD1AA4A895C}
+Connexion au réseau local* 9
+\Device\NPF_Loopback
+Adapter for loopback traffic capture
+\Device\NPF_{286D9DC9-15F2-4960-851A-69E7A2019BE2}
+OpenVPN Data Channel Offload
+\Device\NPF_{A0A61E90-E184-4DF5-8971-F89F7239416D}
+OpenVPN TAP-Windows6
+\Device\NPF_{09B884E1-1F0B-4C67-8082-CC396EFD059F}
+OpenVPN Wintun
+etwdump
+Event Tracing for Windows (ETW) reader
+
+--------------------------------------------------
+

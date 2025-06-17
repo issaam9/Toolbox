@@ -1,0 +1,21 @@
+[2025-05-28 20:34:07] VULN REPORT
+Cible : 192.168.248.134
+Résultat :
+Cible créée avec succès pour 192.168.248.134.
+
+--------------------------------------------------
+
+[2025-05-30 14:08:52] VULN REPORT
+Cible : 192.168.248.134
+Résultat :
+Cible créée avec succès pour 192.168.248.134.
+
+--------------------------------------------------
+
+[2025-05-30 14:20:17] VULN REPORT
+Cible : 192.168.248.134
+Résultat :
+Erreur lors de la création de la cible : < ‚tait inattendu.
+
+--------------------------------------------------
+

@@ -1,0 +1,19 @@
+{
+  "admin": {
+    "password": "gAAAAABoT-nY1_WfsiQNb0yCjX5sOKlVeeUPzI4eeRkZ18mcmYrQ4ZDu_OCkzxsGxu6qtXpjbdlncakDBUTN2SlyzmxtoyC2Ew==",
+    "role": "administrator",
+    "permissions": [
+      "all"
+    ]
+  },
+  "user": {
+    "password": "gAAAAABoT-nYEDNopAXAAUQwDPPT5DKbkbuVCT28983E-l2exqVgtqqYys1fzI674CdZuYlP9mjmXptHdEoWw-09SkFriMO4WA==",
+    "role": "user",
+    "permissions": [
+      "scan",
+      "view_reports",
+      "vulnerability_scan",
+      "traffic_analysis"
+    ]
+  }
+}
